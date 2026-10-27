@@ -23,8 +23,3 @@ The application creates `data/` and `logs/` in the working directory. The saved 
 - `service`: BankService and transaction processor
 - `MiniBank`: console entry point
 
-## GitHub setup
-Create a **private** repository named `oop-minibank-<your-rollno>`, commit this project, then invite your faculty member as a collaborator. Do not publish real banking/customer information; this is an educational simulation.
-
-## Notes
-This is a classroom demo, not production banking software. It uses Java object serialization for demonstrating persistence; production systems should use a database, strict authentication/authorization, encryption, audit controls and transaction-safe storage.
